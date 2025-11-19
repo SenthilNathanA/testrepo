@@ -4,9 +4,9 @@
   "author": "Boss",
   "summary": "Precheck RHEL/Ubuntu/Debian.",
   "license": "Apache-2.0",
-  "source": "https://github.com/SenthilNathanA/testrepo.g",
-  "project_page": "https://github.com/SenthilNathanA/testrepo.g",
-  "issues_url": "https://github.com/SenthilNathanA/testrepo.g/issues",
+  "source": "https://github.com/SenthilNathanA/testrepo.git",
+  "project_page": "https://github.com/SenthilNathanA/testrepo.git",
+  "issues_url": "https://github.com/SenthilNathanA/testrepo.git/issues",
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
