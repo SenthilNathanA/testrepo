@@ -1,0 +1,6 @@
+{
+  "description": "precheck on RHEL 8 nodes",
+  "input_method": "environment",
+  "parameters": {},
+  "supports_noop": false
+}
